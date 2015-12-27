@@ -1,0 +1,17 @@
+HTTP/1.1 304 Not Modified
+Last-Modified: Tue, 26 Jun 2012 01:51:56 GMT
+Accept-Ranges: bytes
+ETag: "08625443e53cd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Thu, 05 Nov 2015 09:54:19 GMT
+
+,zh-Hans;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 26 Jun 2012 01:51:56 GMT
+If-None-Match: "08625443e53cd1:0"
+Host: software.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
